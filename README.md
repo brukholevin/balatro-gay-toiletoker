@@ -1,15 +1,17 @@
 [![Balatro](https://www.playbalatro.com/assets/logo2-C9SU2BrI.png)](https://www.playbalatro.com/)
 
-# Balatro Gay Translation
+# Balatro Gay Toiletoker Translation
 
-This is very silly.
+Now with even more.
 
 Changes a "Straight" into a "Gay".
-Right now only in the english language, because i doubt this joke would make sense in other languages lol
+Changes a "Flush" into a "Toilet".
+Renames most joker cards.
+English-language only.
 
-I very much just looked what the people over at [FrBmt-BIGetNouf/balatro-french-translations](https://github.com/FrBmt-BIGetNouf/balatro-french-translations/) were doing, so check out their repo if you want better french translations or can contribute!
+This is based entirely on HeyImKyu's [Balatro Gay Translation](https://github.com/HeyImKyu/balatro-gay). I'm simply expanding on that. I don't even play this game.
 
-> **Disclaimer:** I don't know how up to date i can keep this, but i'll try
+Below is the original install instructions from the [Balatro Gay Translation](https://github.com/HeyImKyu/balatro-gay).
 
 # How do I install the new file?
 

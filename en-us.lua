@@ -8,7 +8,7 @@ return {
                 }
             },
             j_jolly = {
-                name = "Jolly Joker",
+                name = "Jolloker",
                 text = {
                     "{C:red}+#1#{} Mult if played",
                     "hand contains",
@@ -16,7 +16,7 @@ return {
                 }
             },
             j_zany = {
-                name = "Zany Joker",
+                name = "Zoker",
                 text = {
                     "{C:red}+#1#{} Mult if played",
                     "hand contains",
@@ -24,7 +24,7 @@ return {
                 }
             },
             j_mad = {
-                name = "Mad Joker",
+                name = "Moker",
                 text = {
                     "{C:red}+#1#{} Mult if played",
                     "hand contains",
@@ -32,7 +32,7 @@ return {
                 }
             },
             j_crazy = {
-                name = "Crazy Joker",
+                name = "Croker",
                 text = {
                     "{C:red}+#1#{} Mult if played",
                     "hand contains",
@@ -40,7 +40,7 @@ return {
                 }
             },
             j_droll = {
-                name = "Droll Joker",
+                name = "Droker",
                 text = {
                     "{C:red}+#1#{} Mult if played",
                     "hand contains",
@@ -48,7 +48,7 @@ return {
                 }
             },
             j_sly = {
-                name = "Sly Joker",
+                name = "Sloker",
                 text = {
                     "{C:chips}+#1#{} Chips if played",
                     "hand contains",
@@ -56,7 +56,7 @@ return {
                 }
             },
             j_wily = {
-                name = "Wily Joker",
+                name = "Wiloker",
                 text = {
                     "{C:chips}+#1#{} Chips if played",
                     "hand contains",
@@ -64,7 +64,7 @@ return {
                 }
             },
             j_clever = {
-                name = "Clever Joker",
+                name = "Cloker",
                 text = {
                     "{C:chips}+#1#{} Chips if played",
                     "hand contains",
@@ -72,7 +72,7 @@ return {
                 }
             },
             j_devious = {
-                name = "Devious Joker",
+                name = "Doker",
                 text = {
                     "{C:chips}+#1#{} Chips if played",
                     "hand contains",
@@ -80,7 +80,7 @@ return {
                 }
             },
             j_crafty = {
-                name = "Crafty Joker",
+                name = "Craftoker",
                 text = {
                     "{C:chips}+#1#{} Chips if played",
                     "hand contains",
@@ -88,7 +88,7 @@ return {
                 }
             },
             j_half = {
-                name = "Half Joker",
+                name = "Hoker",
                 text = {
                     "{C:red}+#1#{} Mult if played",
                     "hand contains",
@@ -96,7 +96,7 @@ return {
                 }
             },
             j_fortune_teller = {
-                name = "Fortune Teller",
+                name = "Fortune Telloker",
                 text = {
                     "{C:red}+#1#{} Mult per {C:purple}Tarot{}",
                     "card used this run",
@@ -104,19 +104,19 @@ return {
                 }
             },
             j_juggler = {
-                name = "Juggler",
+                name = "Juggloker",
                 text = {
                     "{C:attention}+#1#{} hand size"
                 }
             },
             j_drunkard = {
-                name = "Drunkard",
+                name = "Droker",
                 text = {
                     "{C:red}+#1#{} discard"
                 }
             },
             j_stone = {
-                name = "Stone Joker",
+                name = "Stoker",
                 text = {
                     "This Joker gains {C:chips}+#1#{} Chips",
                     "for each {C:attention}Stone Card",
@@ -125,14 +125,14 @@ return {
                 }
             },
             j_golden = {
-                name = "Golden Joker",
+                name = "Goker",
                 text = {
                     "Earn {C:money}$#1#{} at",
                     "end of round"
                 }
             },
             j_stencil = {
-                name = "Joker Stencil",
+                name = "Stencoker",
                 text = {
                     "{X:red,C:white} X1 {} Mult for each",
                     "empty {C:attention}Joker{} slot",
@@ -141,15 +141,15 @@ return {
                 }
             },
             j_four_fingers = {
-                name = "Four Fingers",
+                name = "Four Fingoker",
                 text = {
-                    "All {C:attention}Flushes{} and",
+                    "All {C:attention}Toilets{} and",
                     "{C:attention}Gays{} can be",
                     "made with {C:attention}4{} cards"
                 }
             },
             j_mime = {
-                name = "Mime",
+                name = "Mimoker",
                 text = {
                     "Retrigger all",
                     "card {C:attention}held in",
@@ -157,14 +157,14 @@ return {
                 }
             },
             j_credit_card = {
-                name = "Credit Card",
+                name = "Credit Coker",
                 text = {
                     "Go up to",
                     "{C:red}-$#1#{} in debt"
                 }
             },
             j_greedy_joker = {
-                name = "Greedy Joker",
+                name = "Greedoker",
                 text = {
                     "Played cards with",
                     "{C:diamonds}#2#{} suit give",
@@ -172,7 +172,7 @@ return {
                 }
             },
             j_lusty_joker = {
-                name = "Lusty Joker",
+                name = "Loker",
                 text = {
                     "Played cards with",
                     "{C:hearts}#2#{} suit give",
@@ -180,7 +180,7 @@ return {
                 }
             },
             j_wrathful_joker = {
-                name = "Wrathful Joker",
+                name = "Wroker",
                 text = {
                     "Played cards with",
                     "{C:spades}#2#{} suit give",
@@ -188,7 +188,7 @@ return {
                 }
             },
             j_gluttenous_joker = {
-                name = "Gluttonous Joker",
+                name = "Glutoker",
                 text = {
                     "Played cards with",
                     "{C:clubs}#2#{} suit give",
@@ -196,7 +196,7 @@ return {
                 }
             },
             j_ceremonial = {
-                name = "Ceremonial Dagger",
+                name = "Risk of Roker",
                 text = {
                     "When {C:attention}Blind{} is selected,",
                     "destroy Joker to the right",
@@ -206,7 +206,7 @@ return {
                 }
             },
             j_banner = {
-                name = "Banner",
+                name = "Boker",
                 text = {
                     "{C:chips}+#1#{} Chips for",
                     "each remaining",
@@ -214,7 +214,7 @@ return {
                 }
             },
             j_mystic_summit = {
-                name = "Mystic Summit",
+                name = "Mystic Soker",
                 text = {
                     "{C:mult}+#1#{} Mult when",
                     "{C:attention}#2#{} discards",
@@ -222,7 +222,7 @@ return {
                 }
             },
             j_marble = {
-                name = "Marble Joker",
+                name = "Marboker",
                 text = {
                     "Adds one {C:attention}Stone{} card",
                     "to deck when",
@@ -230,7 +230,7 @@ return {
                 }
             },
             j_loyalty_card = {
-                name = "Loyalty Card",
+                name = "Loyoker",
                 text = {
                     "{X:red,C:white} X#1# {} Mult every",
                     "{C:attention}#2#{} hands played",
@@ -238,7 +238,7 @@ return {
                 }
             },
             j_8_ball = {
-                name = "8 Ball",
+                name = "8 Boker",
                 text = {
                     "Create a {C:planet}Planet{} card",
                     "if played hand contains",
@@ -247,7 +247,7 @@ return {
                 }
             },
             j_dusk = {
-                name = "Dusk",
+                name = "Dusoker",
                 text = {
                     "Retrigger all played",
                     "cards in {C:attention}final",
@@ -255,20 +255,20 @@ return {
                 }
             },
             j_chaos = {
-                name = "Chaos the Clown",
+                name = "Jhaos the Joker",
                 text = {
                     "{C:attention}#1#{} free {C:green}Reroll",
                     "per shop"
                 }
             },
             j_misprint = {
-                name = "Misprint",
+                name = "Misproker",
                 text = {
                     ""
                 }
             },
             j_raised_fist = {
-                name = "Raised Fist",
+                name = "Raised Foker",
                 text = {
                     "Adds {C:attention}double{} the rank",
                     "of {C:attention}lowest{} card held",
@@ -276,7 +276,7 @@ return {
                 }
             },
             j_fibonacci = {
-                name = "Fibonacci",
+                name = "Fibonaccoker",
                 text = {
                     "Each played {C:attention}Ace{},",
                     "{C:attention}2{}, {C:attention}3{}, {C:attention}5{}, or {C:attention}8{} gives",
@@ -284,7 +284,7 @@ return {
                 }
             },
             j_steel_joker = {
-                name = "Steel Joker",
+                name = "Steeoker",
                 text = {
                     "This Joker gains {X:mult,C:white} X#1# {} Mult",
                     "for each {C:attention}Steel Card",
@@ -293,7 +293,7 @@ return {
                 }
             },
             j_scary_face = {
-                name = "Scary Face",
+                name = "Scoker Face",
                 text = {
                     "Played {C:attention}face{} cards",
                     "give {C:chips}+#1#{} Chips",
@@ -301,7 +301,7 @@ return {
                 }
             },
             j_abstract = {
-                name = "Abstract Joker",
+                name = "Abstroker",
                 text = {
                     "{C:mult}+#1#{} Mult for",
                     "each {C:attention}Joker{} card",
@@ -309,7 +309,7 @@ return {
                 }
             },
             j_delayed_grat = {
-                name = "Delayed Gratification",
+                name = "Delayed Gratificoker",
                 text = {
                     "Earn {C:money}$#1#{} per {C:attention}discard{} if",
                     "no discards are used",
@@ -317,7 +317,7 @@ return {
                 }
             },
             j_pareidolia = {
-                name = "Pareidolia",
+                name = "Pareidolioker",
                 text = {
                     "All cards are",
                     "considered",
@@ -325,7 +325,7 @@ return {
                 }
             },
             j_hack = {
-                name = "Hack",
+                name = "Hack Froker",
                 text = {
                     "Retrigger",
                     "each played",
@@ -333,7 +333,7 @@ return {
                 }
             },
             j_gros_michel = {
-                name = "Gros Michel",
+                name = "Bananoker",
                 text = {
                     "{C:mult}+#1#{} Mult",
                     "{C:green}#2# in #3#{} chance this",
@@ -342,7 +342,7 @@ return {
                 }
             },
             j_even_steven = {
-                name = "Even Steven",
+                name = "Even Stoker",
                 text = {
                     "Played cards with",
                     "{C:attention}even{} rank give",
@@ -351,7 +351,7 @@ return {
                 }
             },
             j_odd_todd = {
-                name = "Odd Todd",
+                name = "Odd Toker",
                 text = {
                     "Played cards with",
                     "{C:attention}odd{} rank give",
@@ -360,7 +360,7 @@ return {
                 }
             },
             j_scholar = {
-                name = "Scholar",
+                name = "Schoker",
                 text = {
                     "Played {C:attention}Aces{}",
                     "give {C:chips}+#2#{} Chips",
@@ -369,7 +369,7 @@ return {
                 }
             },
             j_business = {
-                name = "Business Card",
+                name = "Bokerness Card",
                 text = {
                     "Played {C:attention}face{} cards have",
                     "a {C:green}#1# in #2#{} chance to",
@@ -377,7 +377,7 @@ return {
                 }
             },
             j_supernova = {
-                name = "Supernova",
+                name = "Supernoker",
                 text = {
                     "Adds the number of",
                     "times {C:attention}poker hand{} has",
@@ -385,7 +385,7 @@ return {
                 }
             },
             j_superposition = {
-                name = "Superposition",
+                name = "Superpokeron",
                 text = {
                     "Create a {C:tarot}Tarot{} card if",
                     "poker hand contains an",
@@ -394,7 +394,7 @@ return {
                 }
             },
             j_ride_the_bus = {
-                name = "Ride the Bus",
+                name = "Bus Droker",
                 text = {
                     "{C:mult}+#1#{} Mult per",
                     "consecutive hand",
@@ -404,7 +404,7 @@ return {
                 }
             },
             j_space = {
-                name = "Space Joker",
+                name = "Spoker",
                 text = {
                     "{C:green}#1# in #2#{} chance to",
                     "upgrade level of",
@@ -420,7 +420,7 @@ return {
                 }
             },
             j_burglar = {
-                name = "Burglar",
+                name = "Burgloker",
                 text = {
                     "When {C:attention}Blind{} is selected,",
                     "gain {C:blue}+#1#{} Hands and",
@@ -428,7 +428,7 @@ return {
                 }
             },
             j_blackboard = {
-                name = "Blackboard",
+                name = "Blackboker",
                 text = {
                     "{X:red,C:white} X#1# {} Mult if all",
                     "cards held in hand",
@@ -436,7 +436,7 @@ return {
                 }
             },
             j_runner = {
-                name = "Runner",
+                name = "Runnoker",
                 text = {
                     "Gains {C:chips}+#2#{} Chips",
                     "if played hand",
@@ -445,7 +445,7 @@ return {
                 }
             },
             j_ice_cream = {
-                name = "Ice Cream",
+                name = "Sherboker",
                 text = {
                     "{C:chips}+#1#{} Chips",
                     "{C:chips}-#2#{} Chips for",
@@ -453,7 +453,7 @@ return {
                 }
             },
             j_dna = {
-                name = "DNA",
+                name = "DNoker",
                 text = {
                     "If {C:attention}first hand{} of round",
                     "has only {C:attention}1{} card, add a",
@@ -462,14 +462,14 @@ return {
                 }
             },
             j_splash = {
-                name = "Splash",
+                name = "Sploker",
                 text = {
                     "Every {C:attention}played card",
                     "counts in scoring"
                 }
             },
             j_blue_joker = {
-                name = "Blue Joker",
+                name = "Bloker",
                 text = {
                     "{C:chips}+#1#{} Chips for each",
                     "remaining card in {C:attention}deck",
@@ -477,7 +477,7 @@ return {
                 }
             },
             j_sixth_sense = {
-                name = "Sixth Sense",
+                name = "Sixth Soker",
                 text = {
                     "If {C:attention}first hand{} of round is",
                     "a single {C:attention}6{}, destroy it and",
@@ -486,7 +486,7 @@ return {
                 }
             },
             j_constellation = {
-                name = "Constellation",
+                name = "Constelloker",
                 text = {
                     "Gains {X:mult,C:white} X#1# {} Mult",
                     "per {C:planet}Planet{} card used",
@@ -494,7 +494,7 @@ return {
                 }
             },
             j_hiker = {
-                name = "Hiker",
+                name = "Jiker",
                 text = {
                     "Every played {C:attention}card{}",
                     "permanently gains",
@@ -502,7 +502,7 @@ return {
                 }
             },
             j_faceless = {
-                name = "Faceless Joker",
+                name = "Faceloker",
                 text = {
                     "Earn {C:money}$#1#{} if {C:attention}#2#{} or",
                     "more {C:attention}face cards{}",
@@ -511,7 +511,7 @@ return {
                 }
             },
             j_todo_list = {
-                name = "To Do List",
+                name = "Joker's List",
                 text = {
                     "Earn {C:money}$#1#{} if {C:attention}poker hand{}",
                     "is a {C:attention}#2#{},",
@@ -520,7 +520,7 @@ return {
                 }
             },
             j_ticket = {
-                name = "Golden Ticket",
+                name = "Jokern Ticket",
                 text = {
                     "Played {C:attention}Gold{} cards",
                     "earn {C:money}$#1#{} when scored",
@@ -532,7 +532,7 @@ return {
                 }
             },
             j_mr_bones = {
-                name = "Mr. Bones",
+                name = "Sr. Joker",
                 text = {
                     "Prevents Death",
                     "if chips scored",
@@ -546,7 +546,7 @@ return {
                 }
             },
             j_acrobat = {
-                name = "Acrobat",
+                name = "Acrojoker",
                 text = {
                     "{X:red,C:white} X#1# {} Mult on {C:attention}final",
                     "{C:attention}hand{} of round"
@@ -557,7 +557,7 @@ return {
                 }
             },
             j_sock_and_buskin = {
-                name = "Sock and Buskin",
+                name = "Joker and Buskin",
                 text = {
                     "Retrigger all",
                     "played {C:attention}face{} cards"
@@ -569,7 +569,7 @@ return {
                 }
             },
             j_green_joker = {
-                name = "Green Joker",
+                name = "Groker",
                 text = {
                     "{C:mult}+#1#{} Mult per hand played",
                     "{C:mult}-#2#{} Mult per discard",
@@ -577,7 +577,7 @@ return {
                 }
             },
             j_swashbuckler = {
-                name = "Swashbuckler",
+                name = "Swashbokler",
                 text = {
                     "Adds the sell value of",
                     "all owned {C:attention}Jokers{} left",
@@ -591,7 +591,7 @@ return {
                 }
             },
             j_troubadour = {
-                name = "Troubadour",
+                name = "Troubadoker",
                 text = {
                     "{C:attention}+#1#{} hand size,",
                     "{C:red}-#2#{} hands per round"
@@ -603,7 +603,7 @@ return {
                 }
             },
             j_certificate = {
-                name = "Certificate",
+                name = "Certificoker",
                 text = {
                     "When round begins,",
                     "add a random {C:attention}playing",
@@ -617,7 +617,7 @@ return {
                 }
             },
             j_smeared = {
-                name = "Smeared Joker",
+                name = "Smoker",
                 text = {
                     "{C:hearts}Hearts{} and {C:diamonds}Diamonds",
                     "count as the same suit,",
@@ -631,7 +631,7 @@ return {
                 }
             },
             j_throwback = {
-                name = "Throwback",
+                name = "Throwboker",
                 text = {
                     "{X:mult,C:white} X#1# {} Mult for each",
                     "{C:attention}Blind{} skipped this run",
@@ -643,7 +643,7 @@ return {
                 }
             },
             j_hanging_chad = {
-                name = "Hanging Chad",
+                name = "Hanging Choker",
                 text = {
                     "Retrigger {C:attention}first{} played",
                     "card used in scoring"
@@ -654,7 +654,7 @@ return {
                 }
             },
             j_rough_gem = {
-                name = "Rough Gem",
+                name = "Rough Goker",
                 text = {
                     "Played cards with",
                     "{C:diamonds}Diamond{} suit earn",
@@ -667,7 +667,7 @@ return {
                 }
             },
             j_bloodstone = {
-                name = "Bloodstone",
+                name = "Bloodstoker",
                 text = {
                     "{C:green}#1# in #2#{} chance for",
                     "played cards with",
@@ -681,7 +681,7 @@ return {
                 }
             },
             j_arrowhead = {
-                name = "Arrowhead",
+                name = "JarrOwKER",
                 text = {
                     "Played cards with",
                     "{C:spades}Spade{} suit give",
@@ -694,7 +694,7 @@ return {
                 }
             },
             j_onyx_agate = {
-                name = "Onyx Agate",
+                name = "Onyx Agoker",
                 text = {
                     "Played cards with",
                     "{C:clubs}Club{} suit give",
@@ -707,7 +707,7 @@ return {
                 }
             },
             j_glass = {
-                name = "Glass Joker",
+                name = "Gloker",
                 text = {
                     "Gains {X:mult,C:white} X#1# {} Mult",
                     "for every {C:attention}Glass Card",
@@ -721,7 +721,7 @@ return {
                 }
             },
             j_ring_master = {
-                name = "Showman",
+                name = "Showker",
                 text = {
                     "{C:attention}Joker{}, {C:tarot}Tarot{}, {C:planet}Planet{},",
                     "and {C:spectral}Spectral{} cards may",
@@ -733,7 +733,7 @@ return {
                 }
             },
             j_flower_pot = {
-                name = "Flower Pot",
+                name = "Flower Poker",
                 text = {
                     "{X:mult,C:white} X#1# {} Mult if played",
                     "hand has a scoring",
@@ -746,7 +746,7 @@ return {
                 }
             },
             j_blueprint = {
-                name = "Blueprint",
+                name = "Blueproker",
                 text = {
                     "Copies ability of",
                     "{C:attention}Joker{} to the right"
@@ -756,7 +756,7 @@ return {
                 }
             },
             j_wee = {
-                name = "Wee Joker",
+                name = "Woker",
                 text = {
                     "This Joker gains",
                     "{C:chips}+#2#{} Chips when each",
@@ -769,7 +769,7 @@ return {
                 }
             },
             j_merry_andy = {
-                name = "Merry Andy",
+                name = "Merry Andy (Joker)",
                 text = {
                     "{C:red}+#1#{} discards,",
                     "{C:red}#2#{} hand size"
@@ -780,7 +780,7 @@ return {
                 }
             },
             j_oops = {
-                name = "Oops! All 6s",
+                name = "Oops! All JOKERs",
                 text = {
                     "Doubles all {C:attention}listed",
                     "{C:green,E:1,S:1.1}probabilities",
@@ -793,7 +793,7 @@ return {
                 }
             },
             j_idol = {
-                name = "The Idol",
+                name = "The Idoker",
                 text = {
                     "Each played {C:attention}#2#",
                     "of {V:1}#3#{} gives",
@@ -807,7 +807,7 @@ return {
                 }
             },
             j_seeing_double = {
-                name = "Seeing Double",
+                name = "Seeing Doker",
                 text = {
                     "{X:mult,C:white} X#1# {} Mult if played",
                     "hand has a scoring",
@@ -821,7 +821,7 @@ return {
                 }
             },
             j_matador = {
-                name = "Matador",
+                name = "Mataoker",
                 text = {
                     "Earn {C:money}$#1#{} if played",
                     "hand triggers the",
@@ -834,7 +834,7 @@ return {
                 }
             },
             j_hit_the_road = {
-                name = "Hit the Road",
+                name = "Hit the Roaker",
                 text = {
                     "Gains {X:mult,C:white} X#1# {} Mult",
                     "per discarded",
@@ -848,7 +848,7 @@ return {
                 }
             },
             j_duo = {
-                name = "The Duo",
+                name = "The Duoker",
                 text = {
                     "{X:mult,C:white} X#1# {} Mult if played",
                     "hand contains",
@@ -861,7 +861,7 @@ return {
                 }
             },
             j_trio = {
-                name = "The Trio",
+                name = "The Trioker",
                 text = {
                     "{X:mult,C:white} X#1# {} Mult if played",
                     "hand contains",
@@ -874,7 +874,7 @@ return {
                 }
             },
             j_family = {
-                name = "The Family",
+                name = "The Familoker",
                 text = {
                     "{X:mult,C:white} X#1# {} Mult if played",
                     "hand contains",
@@ -887,7 +887,7 @@ return {
                 }
             },
             j_order = {
-                name = "The Order",
+                name = "The Oker",
                 text = {
                     "{X:mult,C:white} X#1# {} Mult if played",
                     "hand contains",
@@ -900,7 +900,7 @@ return {
                 }
             },
             j_tribe = {
-                name = "The Tribe",
+                name = "The Troker",
                 text = {
                     "{X:mult,C:white} X#1# {} Mult if played",
                     "hand contains",
@@ -913,7 +913,7 @@ return {
                 }
             },
             j_cavendish = {
-                name = "Cavendish",
+                name = "Cavendoker",
                 text = {
                     "{X:mult,C:white} X#1# {} Mult",
                     "{C:green}#2# in #3#{} chance this",
@@ -922,7 +922,7 @@ return {
                 }
             },
             j_card_sharp = {
-                name = "Card Sharp",
+                name = "Card Shoker",
                 text = {
                     "{X:mult,C:white} X#1# {} Mult if played",
                     "{C:attention}poker hand{} has already",
@@ -930,7 +930,7 @@ return {
                 }
             },
             j_red_card = {
-                name = "Red Card",
+                name = "Red Cardoker",
                 text = {
                     "Gains {C:red}+#1#{} Mult when any",
                     "{C:attention}Booster Pack{} is skipped",
@@ -938,7 +938,7 @@ return {
                 }
             },
             j_madness = {
-                name = "Madness",
+                name = "Madnoker",
                 text = {
                     "When {C:attention}Blind{} is selected,",
                     "gain {X:mult,C:white} X#1# {} Mult and",
@@ -947,7 +947,7 @@ return {
                 }
             },
             j_square = {
-                name = "Square Joker",
+                name = "Squoker",
                 text = {
                     "Gains {C:chips}+#2#{} Chips if",
                     "played hand has",
@@ -956,7 +956,7 @@ return {
                 }
             },
             j_seance = {
-                name = "Séance",
+                name = "Séoker",
                 text = {
                     "If {C:attention}poker hand{} is a",
                     "{C:attention}#1#{}, create a",
@@ -965,7 +965,7 @@ return {
                 }
             },
             j_riff_raff = {
-                name = "Riff-Raff",
+                name = "Riff-Roker",
                 text = {
                     "When {C:attention}Blind{} is selected,",
                     "create {C:attention}#1# {C:blue}Common{C:attention} Jokers",
@@ -973,7 +973,7 @@ return {
                 }
             },
             j_vampire = {
-                name = "Vampire",
+                name = "Vampyoker",
                 text = {
                     "Gains {X:mult,C:white} X#1# {} Mult per",
                     "{C:attention}Enhanced card{} played,",
@@ -982,7 +982,7 @@ return {
                 }
             },
             j_shortcut = {
-                name = "Shortcut",
+                name = "Shoroker",
                 text = {
                     "Allows {C:attention}Gays{} to be",
                     "made with gaps of {C:attention}1 rank",
@@ -990,7 +990,7 @@ return {
                 }
             },
             j_hologram = {
-                name = "Hologram",
+                name = "Hologroker",
                 text = {
                     "Gains {X:mult,C:white} X#1# {} Mult",
                     "per {C:attention}playing card{} added",
@@ -999,7 +999,7 @@ return {
                 }
             },
             j_vagabond = {
-                name = "Vagabond",
+                name = "Vagaboker",
                 text = {
                     "Create a {C:purple}Tarot{} card",
                     "if hand is played",
@@ -1007,7 +1007,7 @@ return {
                 }
             },
             j_baron = {
-                name = "Baron",
+                name = "Baroker",
                 text = {
                     "Each {C:attention}King{}",
                     "held in hand",
@@ -1016,7 +1016,7 @@ return {
                 }
             },
             j_cloud_9 = {
-                name = "Cloud 9",
+                name = "Cloud Noker",
                 text = {
                     "Earn {C:money}$#1#{} for each",
                     "{C:attention}9{} in your {C:attention}full deck",
@@ -1025,7 +1025,7 @@ return {
                 }
             },
             j_rocket = {
-                name = "Rocket",
+                name = "Roecker",
                 text = {
                     "Earn {C:money}$#1#{} at end of",
                     "round. Gains {C:money}$#2#{} when",
@@ -1033,7 +1033,7 @@ return {
                 }
             },
             j_obelisk = {
-                name = "Obelisk",
+                name = "Obeloker",
                 text = {
                     "{X:mult,C:white} X#1# {} Mult per",
                     "consecutive hand played",
@@ -1043,7 +1043,7 @@ return {
                 }
             },
             j_midas_mask = {
-                name = "Midas Mask",
+                name = "Moker, Moker",
                 text = {
                     "All {C:attention}face{} cards",
                     "become {C:attention}Gold{} cards",
@@ -1051,7 +1051,7 @@ return {
                 }
             },
             j_luchador = {
-                name = "Luchador",
+                name = "Luchadoker",
                 text = {
                     "Sell this card to",
                     "disable the current",
@@ -1059,7 +1059,7 @@ return {
                 }
             },
             j_photograph = {
-                name = "Photograph",
+                name = "Photogroker",
                 text = {
                     "First played {C:attention}face",
                     "card gives {X:mult,C:white} X#1# {} Mult",
@@ -1067,7 +1067,7 @@ return {
                 }
             },
             j_gift = {
-                name = "Gift Card",
+                name = "Gift Coker",
                 text = {
                     "Add {C:money}$#1#{} of {C:attention}sell value",
                     "to every {C:attention}Joker{} and",
@@ -1076,7 +1076,7 @@ return {
                 }
             },
             j_turtle_bean = {
-                name = "Turtle Bean",
+                name = "Turtoker Bean",
                 text = {
                     "{C:attention}+#1#{} hand size,",
                     "reduces by",
@@ -1084,7 +1084,7 @@ return {
                 }
             },
             j_erosion = {
-                name = "Erosion",
+                name = "Eroker",
                 text = {
                     "{C:red}+#1#{} Mult for each",
                     "card below {C:attention}#3#{}",
@@ -1093,7 +1093,7 @@ return {
                 }
             },
             j_reserved_parking = {
-                name = "Reserved Parking",
+                name = "Reserved Paroker",
                 text = {
                     "Each {C:attention}face{} card",
                     "held in hand has",
@@ -1103,7 +1103,7 @@ return {
                 }
             },
             j_mail = {
-                name = "Mail-In Rebate",
+                name = "Mail-In Reboker",
                 text = {
                     "Earn {C:money}$#1#{} for each",
                     "discarded {C:attention}#2#{}, rank",
@@ -1111,7 +1111,7 @@ return {
                 }
             },
             j_to_the_moon = {
-                name = "To the Moon",
+                name = "To the Moker",
                 text = {
                     "Earn an extra {C:money}$#1#{} of",
                     "{C:attention}interest{} for every {C:money}$5{} you",
@@ -1119,7 +1119,7 @@ return {
                 }
             },
             j_hallucination = {
-                name = "Hallucination",
+                name = "Hallucinoker",
                 text = {
                     "{C:green}#1# in #2#{} chance to create",
                     "a {C:tarot}Tarot{} card when any",
@@ -1128,7 +1128,7 @@ return {
                 }
             },
             j_lucky_cat = {
-                name = "Lucky Cat",
+                name = "Joker Cat",
                 text = {
                     "Gains {X:mult,C:white} X#1# {} Mult each",
                     "time a {C:attention}Lucky{} card",
@@ -1137,14 +1137,14 @@ return {
                 }
             },
             j_baseball = {
-                name = "Baseball Card",
+                name = "Lou Gheric Joker",
                 text = {
                     "{C:green}Uncommon{} Jokers",
                     "each give {X:mult,C:white} X#1# {} Mult",
                 }
             },
             j_bull = {
-                name = "Bull",
+                name = "Bulloker",
                 text = {
                     "{C:chips}+#1#{} Chips for each",
                     "{C:money}dollar{} you have",
@@ -1152,7 +1152,7 @@ return {
                 }
             },
             j_diet_cola = {
-                name = "Diet Cola",
+                name = "Diet Coker",
                 text = {
                     "Sell this card to",
                     "create a free",
@@ -1160,7 +1160,7 @@ return {
                 }
             },
             j_trading = {
-                name = "Trading Card",
+                name = "Troker Card",
                 text = {
                     "If {C:attention}first discard{} of round",
                     "has only {C:attention}1{} card, destroy",
@@ -1168,7 +1168,7 @@ return {
                 }
             },
             j_flash = {
-                name = "Flash Card",
+                name = "Floker",
                 text = {
                     "{C:mult}+#1#{} Mult per",
                     "{C:attention}reroll{} in the shop",
@@ -1176,7 +1176,7 @@ return {
                 }
             },
             j_popcorn= {
-                name = "Popcorn",
+                name = "Popcoker",
                 text = {
                     "{C:mult}+#1#{} Mult",
                     "{C:mult}-#2#{} Mult per",
@@ -1184,7 +1184,7 @@ return {
                 }
             },
             j_ramen= {
-                name = "Ramen",
+                name = "Ramoker",
                 text = {
                     "{X:mult,C:white} X#1# {} Mult,",
                     "loses {X:mult,C:white} X#2# {} Mult",
@@ -1192,7 +1192,7 @@ return {
                 }
             },
             j_trousers= {
-                name = "Spare Trousers",
+                name = "Spare Trouker",
                 text = {
                     "Gains {C:mult}+#1#{} Mult if",
                     "played hand contains",
@@ -1201,7 +1201,7 @@ return {
                 }
             },
             j_ancient= {
-                name = "Ancient Joker",
+                name = "Ancioker",
                 text = {
                     "Each played card with",
                     "{V:1}#2#{} suit gives",
@@ -1210,7 +1210,7 @@ return {
                 }
             },
             j_walkie_talkie = {
-                name = "Walkie Talkie",
+                name = "Woker Toker",
                 text = {
                     "Each played {C:attention}10{} or {C:attention}4",
                     "gives {C:chips}+#1#{} Chips and", 
@@ -1218,7 +1218,7 @@ return {
                 },
             },
             j_selzer= {
-                name = "Seltzer",
+                name = "Seltzoker",
                 text = {
                     "Retrigger all",
                     "cards played for",
@@ -1226,7 +1226,7 @@ return {
                 }
             },
             j_castle = {
-                name = "Castle",
+                name = "Castloker",
                 text = {
                     "This Joker gains {C:chips}+#1#{} Chips",
                     "per discarded {V:1}#2#{} card,",
@@ -1235,7 +1235,7 @@ return {
                 },
             },
             j_smiley = {
-                name = "Smiley Face",
+                name = "Smiley Foker",
                 text = {
                     "Played {C:attention}face{} cards",
                     "give {C:mult}+#1#{} Mult",
@@ -1243,7 +1243,7 @@ return {
                 }
             },
             j_campfire = {
-                name = "Campfire",
+                name = "Campfoker",
                 text = {
                     "This Joker gains {X:mult,C:white}X#1#{} Mult",
                     "for each card {C:attention}sold{}, resets",
@@ -1254,7 +1254,7 @@ return {
 
 
             j_stuntman = {
-                name = "Stuntman",
+                name = "Stuntmoker",
                 text = {
                     "{C:chips}+#1#{} Chips,",
                     "{C:attention}-#2#{} hand size"
@@ -1266,7 +1266,7 @@ return {
                 }
             },
             j_invisible = {
-                name = "Invisible Joker",
+                name = "Invoker",
                 text = {
                     "After {C:attention}#1#{} rounds,",
                     "sell this card to",
@@ -1280,18 +1280,18 @@ return {
                 }
             },
             j_brainstorm = {
-                name = "Brainstorm",
+                name = "Brainstoker",
                 text = {
                     "Copies the ability",
                     "of leftmost {C:attention}Joker"
                 },
                 unlock = {
                     "Discard a",
-                    "{E:1,C:attention}Royal Flush"
+                    "{E:1,C:attention}Royal Toilet"
                 }
             },
             j_satellite = {
-                name = "Satellite",
+                name = "Satelloker",
                 text = {
                     "Earn {C:money}$#1#{} at end of",
                     "round per unique {C:planet}Planet",
@@ -1304,7 +1304,7 @@ return {
                 }
             },
             j_shoot_the_moon = {
-                name = "Shoot the Moon",
+                name = "Shoot the Joker",
                 text = {
                     "{C:mult}+#1#{} Mult for",
                     "each {C:attention}Queen{}",
@@ -1317,7 +1317,7 @@ return {
                 }
             },
             j_drivers_license = {
-                name = "Driver's License",
+                name = "Joker's License",
                 text = {
                     "{X:mult,C:white} X#1# {} Mult if you have",
                     "at least {C:attention}16{} Enhanced",
@@ -1330,7 +1330,7 @@ return {
                 }
             },
             j_cartomancer = {
-                name = "Cartomancer",
+                name = "Cartoker",
                 text = {
                     "Create a {C:tarot}Tarot{} card",
                     "when {C:attention}Blind{} is selected",
@@ -1342,7 +1342,7 @@ return {
                 }
             },
             j_astronomer = {
-                name = "Astronomer",
+                name = "Astronomoker",
                 text = {
                     "All {C:planet}Planet{} cards and",
                     "{C:planet}Celestial Packs{} in",
@@ -1354,7 +1354,7 @@ return {
                 }
             },
             j_burnt = {
-                name = "Burnt Joker",
+                name = "Buroker",
                 text = {
                     "Upgrade the level of",
                     "the first {C:attention}discarded",
@@ -1367,7 +1367,7 @@ return {
                 }
             },
             j_bootstraps = {
-                name = "Bootstraps",
+                name = "Bootstroker",
                 text = {
                     "{C:mult}+#1#{} Mult for every",
                     "{C:money}$#2#{} you have"
@@ -1378,7 +1378,7 @@ return {
                 }
             },
             j_caino = {
-                name = "Canio",
+                name = "Canioker",
                 text = {
                     "Gains {X:mult,C:white} X#1# {} Mult when",
                     "a {C:attention}face{} card",
@@ -1390,7 +1390,7 @@ return {
                 }
             },
             j_triboulet = {
-                name = "Triboulet",
+                name = "Tribouloker",
                 text = {
                     "Played {C:attention}Kings{} and",
                     "{C:attention}Queens{} each give",
@@ -1401,7 +1401,7 @@ return {
                 }
             },
             j_yorick = {
-                name = "Yorick",
+                name = "Yoroker",
                 text = {
                     "{X:mult,C:white} X#1# {} Mult only after",
                     "using {C:attention}#2#{} discards",
@@ -1412,7 +1412,7 @@ return {
                 }
             },
             j_chicot = {
-                name = "Chicot",
+                name = "Chicoker",
                 text = {
                     "Disables effect of",
                     "every {C:attention}Boss Blind"
@@ -1422,7 +1422,7 @@ return {
                 }
             },
             j_perkeo = {
-                name = "Perkeo",
+                name = "Perkeoker",
                 text = {
                     "Creates a {C:dark_edition}Negative{} copy of",
                     "{C:attention}1{} random {C:attention}consumable{}",
@@ -1481,7 +1481,7 @@ return {
                 }
             },
             v_crystal_ball = {
-                name = "Crystal Ball",
+                name = "Crystal Bepis",
                 text = {
                     "{C:attention}+1{} consumable slot"
                 }
@@ -1512,7 +1512,7 @@ return {
                 }
             },
             v_seed_money = {
-                name = "Seed Money",
+                name = "Seen Money",
                 text = {
                     "Raise the cap on",
                     "interest earned",
@@ -1526,7 +1526,7 @@ return {
                 }
             },
             v_magic_trick = {
-                name = "Magic Trick",
+                name = "Magick Trick",
                 text = {
                     "{C:attention}Playing cards{} can",
                     "be purchased",
@@ -1622,7 +1622,7 @@ return {
                 }
             },
             v_reroll_glut = {
-                name = "Reroll Glut",
+                name = "Reroll Slut",
                 text = {
                     "Rerolls cost",
                     "{C:money}$#1#{} less"
@@ -1634,7 +1634,7 @@ return {
                 }
             },
             v_omen_globe = {
-                name = "Omen Globe",
+                name = "Omen Grobe",
                 text = {
                     "{C:spectral}Spectral{} cards may",
                     "appear in any of",
@@ -3363,11 +3363,11 @@ return {
             card_player = "Play at least 2500 Cards",
             card_discarder = "Discard at least 2500 Cards",
             nest_egg = "Have $400 or more during a single run",
-            flushed = "Play a Flush with 5 Wild Cards",
+            flushed = "Play a Toilet with 5 Wild Cards",
             speedrunner = "Win a run in 12 or fewer rounds",
             roi = "Buy 5 Vouchers by Ante 4",
             shattered = "Break 2 Glass Cards in a single hand",
-            royale = "Play a Royal Flush",
+            royale = "Play a Royal Toilet",
             retrograde = "Get any poker hand to level 10",
             _10k = "Score 10,000 Chips in a single hand",
             _1000k = "Score 1,000,000 Chips in a single hand",
@@ -3409,14 +3409,14 @@ return {
             c_jokerless_1 = "Jokerless",
         },
         poker_hands = {
-            ['Flush Five'] = "Flush Five",
-            ['Flush House'] = "Flush House",
+            ['Flush Five'] = "Toilet Five",
+            ['Flush House'] = "Toilet House (Outhouse)",
             ['Five of a Kind'] = "Five of a Kind",
-            ['Royal Flush'] = "Royal Flush",
-            ['Straight Flush'] = "Gay Flush",
+            ['Royal Flush'] = "Royal Toilet",
+            ['Straight Flush'] = "Gay Toilet",
             ['Four of a Kind'] = "Four of a Kind",
             ['Full House'] = "Full House",
-            ['Flush'] = "Flush",
+            ['Flush'] = "Toilet",
             ['Straight'] = "Gay",
             ['Three of a Kind'] = "Three of a Kind",
             ['Two Pair'] = "Two Pair",
@@ -3425,21 +3425,21 @@ return {
         },
         poker_hand_descriptions = {
             ['Flush Five'] = {
-                "5 cards with the same rank and suit"
+                "5 cards with the same stall"
             },
             ['Flush House'] = {
                 "A Three of a Kind and a Pair with",
-                "all cards sharing the same suit"
+                "all cards sharing the same stall"
             },
             ['Five of a Kind'] = {
-                "5 cards with the same rank"
+                "5 cards in the toilet"
             },
             ['Royal Flush'] = {
                 "5 cards in a row (consecutive ranks) with",
-                "all cards sharing the same suit"
+                "all cards sharing the same stall"
             },
             ['Straight Flush'] = {
-                "Imagine being THIS gay >:3"
+                "Imagine being THIS gay in the stalls"
             },
             ['Four of a Kind'] = {
                 "4 cards with the same rank. They may",
@@ -3449,7 +3449,7 @@ return {
                 "A Three of a Kind and a Pair"
             },
             ['Flush'] = {
-                "5 cards that share the same suit"
+                "5 cards in one stall"
             },
             ['Straight'] = {
                 "Imagine being gay :3"
@@ -4073,7 +4073,7 @@ return {
             },
             s_1 = {
                 "Nicely done! Now that",
-                "you're {E:1}flush{} with {C:money}Cash{},",
+                "you're {E:1}toileted{} with {C:money}Cash{},",
                 "you can buy some new",
                 "cards from the {C:attention}Shop"
             },
